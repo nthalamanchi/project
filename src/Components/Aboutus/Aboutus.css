@@ -1,0 +1,49 @@
+.Aboutus {
+  background: linear-gradient(to left, #ffffff 50%, #7fffd4 50%);
+  margin-top: 50px;
+  width: 90%;
+  height: 650px;
+  padding-top: 50px;
+}
+
+.aboutusCard {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  width: 80%;
+  background-color: white;
+  margin-left: 200px;
+  padding: 50px 10px 50px 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.aboutusCard h1 {
+  color: black;
+}
+
+.aboutusCard:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.aboutustext {
+  width: 30%;
+  margin-right: 10px;
+}
+
+.aboutusimage {
+  width: 70%;
+}
+
+.aboutusimage img {
+  width: 700px;
+  height: 500px;
+}
+
+.aboutustext h1 {
+  color: brown;
+  text-decoration: underline;
+}
+
+.aboutustext h3 {
+  text-align: start;
+}

@@ -1,0 +1,48 @@
+.parent {
+  display: flex;
+}
+
+.homepage {
+  box-shadow: 0px 4px 8px 0 rgba(0, 0, 0, 0.2);
+  width: 50%;
+  height: 50%;
+  margin: 50px 10px 30px 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.makeup {
+  margin: 10px 20px;
+}
+
+.makeup img {
+  height: 300px;
+  width: 300px;
+}
+
+.makeuplink {
+  text-decoration: none;
+  color: red;
+}
+
+.makeup h3 {
+  text-align: center;
+}
+
+.university {
+  margin: 10px 20px;
+}
+
+.university img {
+  height: 300px;
+  width: 300px;
+}
+
+.universitylink {
+  text-decoration: none;
+  color: red;
+}
+
+.university h3 {
+  text-align: center;
+}

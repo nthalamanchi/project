@@ -1,0 +1,41 @@
+.information tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.information tr:hover {
+  background-color: #ddd;
+}
+
+.information th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04aa6d;
+  color: white;
+}
+
+.information th {
+  text-align: center;
+  padding: 20px;
+}
+
+.information td {
+  text-align: center;
+  padding: 20px;
+}
+
+.makeuph3 {
+  text-align: center;
+}
+
+.makeuph2 {
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 10px;
+}
+
+table.information {
+  margin-left: auto;
+  margin-right: auto;
+}
